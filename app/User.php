@@ -10,9 +10,7 @@ class User extends Authenticatable
     use Notifiable;
 
     /**
-     * The attributes that are mass assignable. andrej aaaa
-     *asdasdada
-     *andrejce xc40 aaa
+     * The attributes that are mass assignable.
      * @var array
      */
     protected $fillable = [
