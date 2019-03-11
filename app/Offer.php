@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 use willvincent\Rateable\Rateable;
-/* dsadasda */
+/* dsadasda  asdasdad*/ 
 
 class Offer extends Model
 {
