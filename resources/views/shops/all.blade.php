@@ -16,6 +16,7 @@
                         {{$shop->shop_town}}
                     @endforeach
 
+                    <!-- dsadas -->
                 </div>
 
             </div>
