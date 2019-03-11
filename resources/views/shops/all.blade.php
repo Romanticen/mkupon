@@ -13,10 +13,10 @@
                     @foreach($shops as $shop)
                         {{$shop->shop_name}}<br>
                         {{$shop->shop_address}}<br>
-                        {{$shop->shop_towns}}
+                        {{$shop->shop_town}}
                     @endforeach
 
-                    <!-- dsadas -->
+
                 </div>
 
             </div>
