@@ -15,6 +15,7 @@
                         {{$shop->shop_address}}<br>
                         {{$shop->shop_town}}
                     @endforeach
+
                 </div>
 
             </div>
