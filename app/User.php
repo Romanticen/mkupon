@@ -11,7 +11,8 @@ class User extends Authenticatable
 
     /**
      * The attributes that are mass assignable. andrej aaaa
-     *asdasdadad
+     *asdasdada
+     *andrejce
      * @var array
      */
     protected $fillable = [
